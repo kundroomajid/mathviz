@@ -14,7 +14,7 @@
         android:fadeScrollbars="true"
         android:scrollbarSize="6dp"
         android:scrollbarStyle="outsideInset"
-        android:scrollbarThumbHorizontal="?attr/colorError">
+        android:scrollbarThumbHorizontal="?attr/actionModeSplitBackground">
 
         <LinearLayout
             android:layout_width="match_parent"
